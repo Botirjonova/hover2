@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.4s linear;
+    font-family: "Mulish", sans-serif;
+}
+
+ul {    
+    list-style: none;
+}
+
+.header {
+    margin-top: 46px;
+    margin-bottom: 91px;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.wrapper {
+   display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.navbar ul li {
+    cursor: pointer;
+}
+
+
+.healthcare__wrapper{
+    display: flex;
+}
+
+p{
+
+}
+
+
+button{
+    border-radius: 20px;
+    border: none;
+    width: 200px;
+    height: 40px;
+    background-color: gray;
+}
+
+.left{
+    background-color: dodgerblue;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+    font-weight: 700;
+}
+
+
+.me{
+    margin: 20px;
+    margin: auto;
+    width: 952px;
+   height: 60.8px;
+}
+
+.box__wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 40px;
+}
+
+.box{
+    width: calc(33% - 13.33px);
+    border-radius: 20px;
+    padding: 68px 39px 29px;
+    background-color: rgb(166, 166, 166);
+}
+
+.box__active {
+    background-color: dodgerblue;
+}
+
+.right{
+    color: dodgerblue;
+    background-color: white;
+    border: solid 2px dodgerblue;
+    margin: auto;
+    margin: 50px;
+}
+
+.service__wrappeer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.header{
+
+}
+
+.img{
+    width: 628px;
+    height: 469.15px;
+}
+
+
+.sector{
+    display: flex;
+}
+
+.sezon{
+    width: 434.98px;
+    height: 121.59px;
+}
+  .left{
+    margin: 30px;
+  }
+
+.sezon{
+    margin: 20px;
+}
+
+
+.new{
+    border: solid 2px dodgerblue;
+    color: dodgerblue;
+    background-color: white;
+    margin: auto;
+    margin: 50px;
+}
+
+
+.parapraph{
+    margin: auto;
+    margin: 50px;
+}
+
+
+
+.support{
+    width: 266px;
+    height: 84px;
+}
+
+.wrapper__backs{
+    display: flex;
+    margin: 20px;
+}
+
+.back{
+    margin: 50px;
+}
+
+.button{
+    border: solid 2px dodgerblue;
+    color: dodgerblue;
+    background-color: white;
+    margin: 50px;
+}
+
+.class{
+    width: 386px;
+    height: 84px;
+    margin: 50px;
+
+}
+
+
+.none{
+    list-style: none;
+    text-align: center;
+    margin: 50px;
+    font-weight: 700;
+}
+
+
+.wrapper__footer{
+    background-color: dodgerblue;
+}
+
+.teleg{
+    display: flex;
+    justify-content: space-between;
+    height: 432px;
+   
+}
+
+.color{
+   max-width: 386px; 
+}
+
+.comp{
+  
+
+}
+
+footer.container{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+
+footer{
+   height: 500px;
+   display: flex;
+   align-self: center;
+   justify-content: space-around;
+}
+
+
+.gap{
+    margin: 50px;
+    margin-top: auto;
+ align-items: center;
+}
+
+.color{
+    margin-top: auto;
+    align-items: center;
+}
